@@ -1,0 +1,193 @@
+
+
+.bod {
+    background-color: black;
+    background-image: url(Image/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-bar {
+    height: 55px;
+    padding-left: 23px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: large;
+}
+
+.nav-bar .nav-ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-bar .nav-ul .nav-li {
+    list-style: none;
+    margin: 0 23px;
+}
+
+/* .nav-bar .nav-ul .nav-li {
+    text-decoration: none;
+    color: rgb(75, 75, 122);
+} */
+
+.nav-bar .nav-ul .nav-li:hover {
+    color: rgb(182, 182, 227);
+    font-size: 1.01rem;
+}
+
+
+.heading {
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    margin-left: 19vw;
+    margin-top: 3px;
+    width: 60%;
+    height: 7vh;
+    /* background-color: rgb(255, 255, 255); */
+}
+
+.confirmation-heading {
+    padding: 8px 40px 0px 40px;
+}
+
+.final {
+    height: 44vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 149px;
+}
+
+.image {
+    background-color: black;
+    height: 34px;
+}
+
+.information-candidate-candidate {
+    background-color: black;
+}
+
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    color: white;
+    padding: 100px 250px 95px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2.5 px;
+}
+
+.image{
+    border-radius: 15px;
+    /* background-image: url(Image/trump.jfif); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 38vh;
+    width: 27vw;
+    background-color: white;
+    overflow: hidden;
+    img{
+       height: 38vh;
+       width: 27vw;
+    }
+}
+
+
+
+
+.information-candidate {
+    border-radius: 15px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    height: 38vh;
+    width: 27vw;
+    background-color: rgb(97, 139, 80);
+}
+
+.information-candidate h4 {
+    margin-top: 4px;
+    margin-bottom: 10px;
+}
+
+.information-candidate ul {
+    margin: 34px;
+    padding-left: 34px;
+}
+
+.information-candidate li {
+    margin-bottom: 8px;
+    list-style-type: square;
+}
+
+.information-candidate button {
+    border-style: none;
+    background-color: rgb(208, 223, 162);
+    border-radius: 10px;
+    margin-left: 115px;
+    height: 4vh;
+    width: 8vw;
+    color: black;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.information-candidate a {
+    text-decoration: none;
+    font-size: 18px;
+    font-family: cursive;
+}
+
+.submit {
+    margin-top: 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 10vh;
+    padding: 5px;
+}
+
+
+.submit .confirm {
+    background-color: rgb(208, 223, 162);
+    border-radius: 20px;
+    margin-right: 95px;
+    height: 6vh;
+    width: 8vw;
+    font-size: 1.5rem;
+}
+
+.submit .cancel {
+    background-color: rgb(208, 223, 162);
+    height: 6vh;
+    border-radius: 20px;
+    width: 8vw;
+    font-size: 1.5rem;
+}
+
+.submit .confirm a {
+    text-decoration: none;
+    font-family: cursive;
+}
+
+.submit .cancel a {
+    font-family: cursive;
+    text-decoration: none;
+}
+
+.submit .confirm:hover{
+    font-size: 1.2rem;
+    background-color: rgb(3, 2, 2);
+}
+.submit .cancel:hover{
+    font-size: 1.3rem;
+    background-color: black;
+}

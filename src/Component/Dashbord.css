@@ -1,0 +1,105 @@
+
+section{
+    background-image: url("https://s3-alpha-sig.figma.com/img/3695/2d79/61223ea3dfa6df3faa7876ebfb1aeb3f?Expires=1730073600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GyHfpXpwXMWWSNT7xNaSPPiUaxdyKYWcsdEMBU2TPxUD0GiPfgsvW8RJ~XGv4Uakz4ukuuNqcxQNh~6q8LR91iJ9K7SbsEjSsas5WhbYf-CN3dY79ucnyeZu8m2bdwoAlF0P~Ngl1B5q5cHE4xBhKY2Rh-2CzIvf0aXjQ3kGAWq1sDFXk92Y0qBKgLHEKIM4oChWhkkzpio2bTbOUJjE~JC35td6KHPNApPWVCmUZe3DilG4VH8-P~boQWidT2THNtcTUL-23IilwdiGcCzzy6qbmVTUqj1owPBLqla-5LWiSGmjKzXQRIthVtIuB8kOEVhilny45tLA2WDTbEqJmg__");
+    background-size: cover;
+    height: 80vw;
+    width: 100vw;
+    
+}
+.navi{
+  width: 100vw;
+  height: 100vw;
+}
+.nav{
+  margin-top: 1.25rem;
+  display: flex;
+  justify-content: center;
+  gap: 2.5rem;
+}
+.vote-search{
+    border: 1px solid grey;
+    width: 400px;
+    color: red;
+    border-radius: 20%;
+    margin: auto;
+    input{
+        appearance: none;
+        border: none;
+        outline: none;
+      
+    background: rgba(#e91e63, 0.2);
+    
+    font-size: 1.6rem;
+    color: #000000;
+   
+    
+    }
+}
+.cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: center;
+    align-items: center;
+    gap: 1.2rem;
+    /* background-color: red; */
+  }
+  .user-card {
+    width: 250px;
+    height: fit-content;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
+      rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    background-color: #fff;
+    border-radius: 40px;
+    -webkit-border-radius: 0.2rem;
+    -moz-border-radius: 0.2rem;
+    -ms-border-radius: 0.2rem;
+    -o-border-radius: 0.2rem;
+    padding: 0.6rem;
+    position: relative;
+    background-color:#70AFB4;
+  }
+  .user-name{
+    font-size: 17px;
+  }
+  .user-card:hover{
+  background-color: #e91e63;
+
+  }
+  .info
+  {
+    
+    display: flex; 
+    font-size: 12px;
+    gap: 30px;
+  }
+  
+
+  figure {
+    display: flex;
+    justify-content: center;
+    filter: drop-shadow(0px 50px 100px rgba(50, 50, 93, 0.25));
+    height: 8vw;
+    .image{
+   height: 100px;
+   width: 100px;
+   background-position: center;
+   object-position: center;
+    }
+  }
+  .count{
+    height: 30px;
+    width: 60px;
+    background-color: beige;
+    color: chartreuse;
+    text-align: center;
+    border-radius: 40px;
+    font-size: 1.6rem;
+  }
+  .btnf{
+     display: flex;
+     gap: 15px;
+     color: goldenrod;
+     .w{
+      color: bisque;
+     }
+  }

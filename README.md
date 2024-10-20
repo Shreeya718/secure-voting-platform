@@ -29,11 +29,11 @@ Hackodisha4 project: Secure Voting Platform using blockchain for institutional e
 #### For a cool demo of this  project checkout ScreenShots
 ![Login Page](/Images/Screenshot%202024-10-20%20102104.png)
 
-![Home Page](/Images/secure-voting-platform/src/assets/Screenshot%202024-10-20%20102131.png)
+![Home Page](/Images/Screenshot%202024-10-20%20102131.png)
 
-![Voting page](/Images/secure-voting-platform/src/assets/Screenshot%202024-10-20%20102147.png)
-![Details Page](/Images/secure-voting-platform/src/assets/Screenshot%202024-10-20%20102221.png)
-![Results Page](/Images/secure-voting-platform/src/assets/Screenshot%202024-10-20%20102207.png)
+![Voting page](/Images/Screenshot%202024-10-20%20102147.png)
+![Details Page](/Images/Screenshot%202024-10-20%20102221.png)
+![Results Page](/Images/Screenshot%202024-10-20%20102207.png)
 
 
 ## License

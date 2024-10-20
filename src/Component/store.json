@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Donald trump",
+        "age": "78",
+        "party":"Republican Party",
+        "education":"10th",
+        "large": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTt-cMi00dvJxvqDE5bM7nDYmAi_0AE0_0dNEeaPk1N4xfLZonbyipgVrc-ZiB14Npok0_fQP4N-hSfIoQ",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Rahul Gandhi",
+        "age": "54",
+        "party":"Congress",
+        "education":"12th",
+        "large": "https://s.yimg.com/fz/api/res/1.2/2SOKc1fwF6SqBbS5yJ1wvQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0zODQ7cT04MDt3PTUxMg--/https://s.yimg.com/am/60d/c81b6ac708f033fff63b41b88f2b7e72",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Mamta Banerjee",
+        "age": "69",
+        "party":"Trinamool Congress",
+        "education":"9th",
+        "large": "https://www.livemint.com/lm-img/img/2023/12/18/1600x900/West-Bengal-chief-minister-Mamata-Banerjee---File-_1702903856668_1702903901506.jpg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "education":"btech",
+        "name": "Justin Trudeau",
+        "age": "52",
+        "party":"Liberal",
+        "large": "https://s.yimg.com/zb/imgv1/bceb5501-1ee8-3846-8954-534906d83f7d/t_500x300",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Imran Khan",
+        "age": "72",
+        "party":"Tehreek-a-Insaf",
+        "large": "https://th.bing.com/th/id/OIP.H1YALAv8FtC8xEncFnLWVAHaJQ?w=819&h=1023&rs=1&pid=ImgDetMain",
+        "count": 0,
+        "education":"bA"
+    },
+    {
+        "id": 6,
+        "name": "Naveen patnaik ",
+        "age": "78",
+        "party":"Biju Janada Dal","large":"https://s.yimg.com/fz/api/res/1.2/UZ8c4c9.y7PQ2wN4eBxjBA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0yMjg7cHhvZmY9MDtweW9mZj0wO3E9ODA7dz00MDA-/https://s.yimg.com/am/60d/efe63d9049b7aa7f210bd646e2a9533d",
+        "count": 0,"education":"Dont know"
+    },
+    {
+        "id": 7,
+        "name": "Narendra Modi",
+        "age": "74",
+        "party":"Bharatiya Janata Party","large": "https://s.yimg.com/fz/api/res/1.2/4D4BYySnUuXFGwuSMJTVkA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0zODQ7cT04MDt3PTUxMg--/https://s.yimg.com/am/60d/86060d324791621014ee3e5e7c0da4f2",
+        "count": 0,
+        "education":"PHD in Arts"
+    }
+]

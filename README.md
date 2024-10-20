@@ -20,20 +20,20 @@ Hackodisha4 project: Secure Voting Platform using blockchain for institutional e
 - Metamask
 - "react": "^18.3.1",
 - "axios": "^1.7.7",
-- "ethers": "^6.13.4",
+- "ethers": "^6.13.4/Images
 - "react-redux": "^9.1.2",
 - "react-router-dom": "^6.27.0",
 - "react-toastify": "^10.0.6",
-- "solidity": "^0.0.1",
+- "solidity": "^0.0.1",g
 - "web3": "^4.13.0"
 #### For a cool demo of this  project checkout ScreenShots
-![Login Page](../secure-voting-platform/src/assets/Screenshot%202024-10-20%20102104.png)
+![Login Page](/Images/Screenshot%202024-10-20%20102104.png)
 
-![Home Page](../secure-voting-platform/src/assets/Screenshot%202024-10-20%20102131.png)
+![Home Page](/Images/secure-voting-platform/src/assets/Screenshot%202024-10-20%20102131.png)
 
-![Voting page](../secure-voting-platform/src/assets/Screenshot%202024-10-20%20102147.png)
-![Details Page](../secure-voting-platform/src/assets/Screenshot%202024-10-20%20102221.png)
-![Results Page](../secure-voting-platform/src/assets/Screenshot%202024-10-20%20102207.png)
+![Voting page](/Images/secure-voting-platform/src/assets/Screenshot%202024-10-20%20102147.png)
+![Details Page](/Images/secure-voting-platform/src/assets/Screenshot%202024-10-20%20102221.png)
+![Results Page](/Images/secure-voting-platform/src/assets/Screenshot%202024-10-20%20102207.png)
 
 
 ## License
